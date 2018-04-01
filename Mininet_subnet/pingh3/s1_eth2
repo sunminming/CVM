@@ -1,0 +1,11 @@
+18:17:55.583650 IP 10.0.0.1 > 10.0.0.2: ICMP echo request, id 1240, seq 20, length 64
+18:17:55.583676 IP 10.0.0.2 > 10.0.0.1: ICMP echo reply, id 1240, seq 20, length 64
+18:17:56.607676 IP 10.0.0.1 > 10.0.0.2: ICMP echo request, id 1240, seq 21, length 64
+18:17:56.607703 IP 10.0.0.2 > 10.0.0.1: ICMP echo reply, id 1240, seq 21, length 64
+18:17:57.631685 IP 10.0.0.1 > 10.0.0.2: ICMP echo request, id 1240, seq 22, length 64
+18:17:57.631711 IP 10.0.0.2 > 10.0.0.1: ICMP echo reply, id 1240, seq 22, length 64
+18:17:58.655614 IP 10.0.0.1 > 10.0.0.2: ICMP echo request, id 1240, seq 23, length 64
+18:17:58.655640 IP 10.0.0.2 > 10.0.0.1: ICMP echo reply, id 1240, seq 23, length 64
+18:17:59.679490 IP 10.0.0.1 > 10.0.0.2: ICMP echo request, id 1240, seq 24, length 64
+18:17:59.679516 IP 10.0.0.2 > 10.0.0.1: ICMP echo reply, id 1240, seq 24, length 64
+
